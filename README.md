@@ -3,7 +3,7 @@
 Python package for solution of constrained rigid body dynamics problems.
 See the manual, code documentation, and examples for details.
 
-This package was developed as a exploratory tool in preparation for full implementation in Discrete element software [Demify](https://demify.se/).
+This package was developed during my Master's thesis at Fraunhofer-Chalmers Research Center for Industrial Mathematics as an exploratory tool in preparation for full implementation in Discrete element software [Demify](https://demify.se/).
 In particular, the objective was a simple tool that could be coupled to particle dynamics simulation via a coding interface. 
 It is generally applicable on its own, however, and I'm publishing it for education purposes. Feel free to use it in your project or to study the implementation.
 
